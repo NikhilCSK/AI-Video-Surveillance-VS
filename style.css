@@ -1,0 +1,63 @@
+body
+{
+
+    background-size: cover;
+
+}
+
+.heading
+{
+
+    font-size: 35px;
+    width: 100%;
+    box-shadow: 5px 5px 5px rgb(236, 139, 60);
+    margin: 0;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+#start
+{
+
+    font-size: 20px;
+    border: 3px solid white;
+    font-weight: bold;
+
+}
+
+#no_of_objects, #status
+{
+
+    font-size: 20px;
+    border: 3px solid white;
+    margin: 3px;
+    float: none;
+
+}
+
+.copyRight_footer
+{
+
+    position: fixed;
+    bottom: 0;
+    font-size: 22px;
+    color: white;
+    background-color: black;
+    width: 100%;
+    font-style: italic;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+
+
+}
+
+canvas
+{
+
+    border: 5px ridge white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(85, 84, 84);
+    margin-top: 100px;
+
+}
